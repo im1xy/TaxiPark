@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ec0483d-dfcf-408e-a18e-26448992af5e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab-4-8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Cars/AvailableCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CustomTable/CTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CustomTable/CTableFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CustomTable/CTableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CustomTable/CTableSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CustomTable/CellEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CustomTable/CellRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/CComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/Cell/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/Cell/CellComponents.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/Cell/CellComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/Menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/Menu/MenuComponents.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/Menu/MenuComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/RangeChoosers/ComboBoxRangeChooser.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/RangeChoosers/ComboBoxRangeChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/RangeChoosers/RangeChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/RangeChoosers/SpinnerRangeChooser.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/RangeChoosers/SpinnerRangeChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/Statistics/Statistics.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/Statistics/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/TableCComponents/TableFilter/TableFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/TableCComponents/TableFilter/TableFilterComponents.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/TableCComponents/TableFilter/TableFilterComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/TableCComponents/TableSorter/TableSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/TableCComponents/TableSorter/TableSorterComponents.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Components/TableCComponents/TableSorter/TableSorterComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/MessageDialogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Windows/Application/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Windows/Application/ApplicationComponents.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Windows/Application/ApplicationComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Windows/CWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Windows/CarDialog/CarDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Windows/CarDialog/CarDialogComponents.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Windows/CarDialog/CarDialogComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Windows/CarInformationDialog/CarInformationDialog.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/GUIs/Windows/CarInformationDialog/CarInformationDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Icons/taxi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Mailer/Mailer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Mailer/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/CommonGUITests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Components/Menu/BasicFunctionsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Components/Menu/LoadTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Components/Menu/MenuTestingUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Components/RangeChoosers/ComboBoxRangeChooserTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Components/RangeChoosers/SpinnerRangeChooserTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Components/TableCComponents/FilterAndSort/FilteringAndSortingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Components/TableCComponents/TableFilter/TableFilterTestingUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Components/TableCComponents/TableFilter/TableFilterTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Components/TableCComponents/TableSorter/AscendingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Components/TableCComponents/TableSorter/DescendingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Components/TableCComponents/TableSorter/TableSorterTestingUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Components/TableCComponents/TableTestingUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Windows/Application/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Windows/CarDialog/CarDialogAddTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Windows/CarDialog/CarDialogEditTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Windows/CarDialog/CarDialogTestingUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Windows/CarInformationDialog/CarInformationDialogTestingUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GUIs/Windows/CarInformationDialog/CarInformationDialogTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/testCarData.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2WDHZVmjG9B7hEZdngaXj0Fgub9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE&quot;: &quot;left&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH&quot;: &quot;180&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE&quot;: &quot;right&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;276&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Artem/Uni Projects/Прикладне Програмування/Lab-4-8&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Artem\Uni Projects\Прикладне Програмування\Lab-4-8\src\main\GUIs\App\Application" />
+      <recent name="C:\Artem\Uni Projects\Прикладне Програмування\Lab-4-8\Logs" />
+      <recent name="C:\Artem\Uni Projects\Прикладне Програмування\Lab-4-8\src\main\GUIs\CustomComponents\CarInformation" />
+      <recent name="C:\Artem\Uni Projects\Прикладне Програмування\Lab-4-8\src" />
+      <recent name="C:\Artem\Uni Projects\Прикладне Програмування\Lab-4-8\src\GUIs\CustomComponents\TableSorter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test in Lab-4-8">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Lab-4-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.menuVisibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab-4-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.GUIs.Windows.Application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.GUIs.Windows.Application" />
+      <option name="MAIN_CLASS_NAME" value="test.GUIs.Windows.Application.ApplicationTests" />
+      <option name="METHOD_NAME" value="menuVisibility" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.rightSidePanelVisibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab-4-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.GUIs.Windows.Application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.GUIs.Windows.Application" />
+      <option name="MAIN_CLASS_NAME" value="test.GUIs.Windows.Application.ApplicationTests" />
+      <option name="METHOD_NAME" value="rightSidePanelVisibility" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarInformationDialogTests.correctValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab-4-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.GUIs.Windows.CarInformationDialog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.GUIs.Windows.CarInformationDialog" />
+      <option name="MAIN_CLASS_NAME" value="test.GUIs.Windows.CarInformationDialog.CarInformationDialogTests" />
+      <option name="METHOD_NAME" value="correctValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test in Lab-4-8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab-4-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test in Lab-4-8" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ApplicationTests.rightSidePanelVisibility" />
+        <item itemvalue="JUnit.ApplicationTests.menuVisibility" />
+        <item itemvalue="JUnit.CarInformationDialogTests.correctValues" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ec0483d-dfcf-408e-a18e-26448992af5e" name="Changes" comment="" />
+      <created>1696260287635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696260287635</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="CustomTable.CustomTableModel" memberName="data" />
+        <PinnedItemInfo parentTag="CustomTable.CustomTableModel" memberName="columnIdentifiers" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
